@@ -1,4 +1,4 @@
-mixin CanFly{
+/*mixin CanFly{
   void fly(){
     print('Flying with mixin');
   }
@@ -27,6 +27,6 @@ void main(){
   s.introduce();
   s.fly();
   s.run();
-}
+}*/
 
 

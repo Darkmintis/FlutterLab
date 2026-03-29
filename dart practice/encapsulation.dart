@@ -1,4 +1,4 @@
-class BankAccount {
+/*class BankAccount {
   String _accountNumber;
   double _balance;
   String _accountHolder;
@@ -51,5 +51,5 @@ void main(){
   account.withdraw(2000);
   
   account.displayAccountInfo();
-}
+}*/
   

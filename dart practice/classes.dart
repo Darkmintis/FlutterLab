@@ -1,4 +1,4 @@
-class Car(){
+/*class Car(){
   String brand;
   String model;
   int year;
@@ -17,4 +17,4 @@ class Car(){
     myCar.displayInfo();
     friendsCar.displayInfo();
   }
-}
+}*/

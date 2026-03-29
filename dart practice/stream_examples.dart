@@ -1,4 +1,4 @@
-// Simple Stream with multiple values
+/*// Simple Stream with multiple values
 Stream<String> simpleStream() async* {
   yield 'First Value';
   yield 'Second Value';
@@ -38,4 +38,4 @@ Stream<String> messageStream() async* {
     await Future.delayed(Duration(milliseconds: 500));
     yield msg;
   }
-}
+}*/

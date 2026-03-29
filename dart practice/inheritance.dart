@@ -1,4 +1,4 @@
-class Animal {
+/*class Animal {
   String name;
   int age;
   
@@ -60,5 +60,5 @@ void main(){
   cat.scratch();
   
   print('${dog.name} is a ${dog.breed}');
-}
+}*/
 

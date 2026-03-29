@@ -1,4 +1,4 @@
-Future<String> fetchWeather() async(
+/*Future<String> fetchWeather() async(
   await Future.delayed(Duration(seconds: 3));
   return 'Sunny';
   }
@@ -15,4 +15,4 @@ FutureBuilder<String>{
     }
     return Text('Hello, ${snapshot.data}');
   },
-)
+)*/

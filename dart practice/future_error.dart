@@ -1,4 +1,4 @@
-Future<double> divide(int a, int b) async{
+/*Future<double> divide(int a, int b) async{
   if (b == 0){
     throw Exception('Cannot divide by zero');
     
@@ -13,4 +13,4 @@ void main() async{
   } catch (e){
     print('Error: $e');
   }
-}
+}*/

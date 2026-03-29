@@ -1,4 +1,4 @@
-// Simple future that returns immediately
+/*// Simple future that returns immediately
 Future<String> simpleFuture() async {
   return 'Hello from Future';
 }
@@ -21,4 +21,4 @@ Future<double> divideNumbers(double a, double b) async {
   }
 
   return a / b;
-}
+}*/
